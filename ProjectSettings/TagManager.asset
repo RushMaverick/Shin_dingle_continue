@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - T-Tip
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Grab
+  - Ground
+  - Wall
+  - Background
+  - Skybox
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Skybox
+    uniqueID: 1881609241
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 150920517
+    locked: 0
+  - name: Tongue
+    uniqueID: 1003878661
+    locked: 0
+  - name: Player
+    uniqueID: 3503809083
+    locked: 0
+  - name: Foreground
+    uniqueID: 3608813539
+    locked: 0
